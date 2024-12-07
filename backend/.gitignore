@@ -1,0 +1,35 @@
+# Node.js dependencies
+node_modules/
+# TypeScript build output
+dist/
+*.tsbuildinfo
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment variables file
+.env
+
+# Operating System files
+.DS_Store
+
+# IDE/Editor directories and files
+.vscode/
+.idea/
+
+# Coverage directory for code coverage reports
+coverage/
+
+# Temporary files created by npm/yarn
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# TypeScript Definition Files
+*.d.ts
+
+# JetBrains IDE project files
+*.iml
