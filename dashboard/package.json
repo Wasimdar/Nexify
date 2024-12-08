@@ -12,7 +12,8 @@
     "jsonwebtoken": "^9.0.2",
     "next": "^15.0.4",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-hook-form": "^7.54.0"
   },
   "devDependencies": {
     "@types/node": "^20",
